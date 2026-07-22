@@ -29,7 +29,7 @@ Do not disclose vulnerabilities in a public issue. Follow the repository's [secu
 - [Ask about sponsorship](https://jrhof.org/contact/) for an event or program.
 - [Contribute historical material](https://jrhof.org/contact/) for review and preservation.
 - Help with the public website through the contribution paths above.
-- Use [GitHub Sponsors](https://github.com/sponsors/JR-and-Associates-Inc), when available, only as the platform describes it; it is distinct from an event payment or a donation made through jrhof.org.
+- GitHub Sponsors is not currently configured for this organization. If it is introduced later, it will be described separately from event payments and donations made through jrhof.org.
 
 Charitable donations, sponsorship arrangements, event purchases, and GitHub sponsorships are different transactions. Eligibility for a tax deduction depends on the specific transaction and the donor's circumstances; no blanket tax-deductibility claim is made here. Event tickets and other payments may include benefits received in return.
 
