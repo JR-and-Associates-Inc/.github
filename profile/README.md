@@ -1,86 +1,36 @@
-# **JR and Associates, Inc.**
+# JR and Associates, Inc.
 
-*Official GitHub for JRHOF & Community Technology Projects*
-🌐 [Website](https://jrhof.org) | 📧 [Contact Us](mailto:contact@jrhof.org)
+JR and Associates, Inc. supports the [Joe Rossi Umpires Hall of Fame](https://jrhof.org), which honors people who have contributed to baseball officiating in Colorado and preserves their stories for future generations.
 
----
+## The Hall of Fame website
 
-## 🌟 **Who We Are**
+[jrhof-webapp](https://github.com/JR-and-Associates-Inc/jrhof-webapp) is the public source repository for the Hall of Fame website. The active site is built with Astro and served as static assets on Cloudflare. Approved optimized media is delivered from Cloudflare R2. The retired Next.js application remains only as migration history inside that repository.
 
-JR and Associates, Inc. is a **501(c)(3) nonprofit organization** committed to:
+The repository is public for transparency and collaboration, but it currently has no open-source license. Public visibility does not by itself grant permission to reuse the code, branding, photographs, or historical material.
 
-* ⚾ **Honoring the Legacy** of Colorado’s high school baseball umpires through the **Joe Rossi Hall of Fame**
-* 🏛 **Preserving History** with digital archives, event highlights, and community engagement
-* 💻 **Building Open Source Tools** to support accessibility, transparency, and community-driven development
+The website uses Google Tag Manager as the single Google measurement loader for approved GA4 and Google Ads measurement. Cloudflare Web Analytics is managed separately, and Microsoft Clarity loads only when its approved public project ID is configured. Details and privacy disclosures are maintained in the website repository and at [jrhof.org/privacy-policy](https://jrhof.org/privacy-policy/).
 
----
+## Ways to contribute
 
-## 📂 **Our Open Source Projects**
+- Suggest a sourced factual correction or offer historical programs, photographs, clippings, or biographical leads.
+- Report a reproducible website bug or accessibility issue.
+- Propose focused improvements to accessibility, performance, documentation, or security.
+- Help review historical material only when its source and permission status can be documented.
 
-| Repository                                                                                | Purpose                                                                |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [**jrhof-webapp**](https://github.com/JR-and-Associates-Inc/jrhof-webapp)                 | The official JRHOF website, built with **Next.js** & **Tailwind CSS**  |
-| [**jrhof-contact-worker**](https://github.com/JR-and-Associates-Inc/jrhof-contact-worker) | Secure **Cloudflare Worker** handling contact forms via **Resend API** |
+Start with the contribution guidance and available issue forms in [jrhof-webapp](https://github.com/JR-and-Associates-Inc/jrhof-webapp). Do not post personal information, private documents, credentials, payment details, or unlicensed media.
 
-**We believe technology should serve the community**—our code is open for transparency, security, and collaborative improvement.
+## Report security issues privately
 
----
+Do not disclose vulnerabilities in a public issue. Follow the repository's [security policy](https://github.com/JR-and-Associates-Inc/jrhof-webapp/security/policy); use GitHub's private advisory form when the repository presents it, or the private contact method named in that policy.
 
-## ✅ **Our Principles**
+## Support the mission
 
-✔ **Privacy-First:** No invasive tracking, minimal data collection
-✔ **Accessibility:** A web experience that works for everyone
-✔ **Transparency:** Open code for public accountability
-✔ **Security:** Following best practices to protect users & contributors
+- [Donate](https://jrhof.org/donate/) to support the Hall of Fame's charitable mission.
+- [Ask about sponsorship](https://jrhof.org/contact/) for an event or program.
+- [Contribute historical material](https://jrhof.org/contact/) for review and preservation.
+- Help with the public website through the contribution paths above.
+- GitHub Sponsors is not currently configured for this organization. If it is introduced later, it will be described separately from event payments and donations made through jrhof.org.
 
----
+Charitable donations, sponsorship arrangements, event purchases, and GitHub sponsorships are different transactions. Eligibility for a tax deduction depends on the specific transaction and the donor's circumstances; no blanket tax-deductibility claim is made here. Event tickets and other payments may include benefits received in return.
 
-## 🤝 **How You Can Help**
-
-* **Developers:** Improve accessibility, UI, or performance
-* **Security Experts:** Help us harden APIs and audit configurations
-* **Community Members:** Report bugs, suggest features, or share ideas
-
-### 🛠 **Getting Started**
-
-1. Explore our repositories
-2. Review the `README` and contribution guidelines
-3. Open an issue or submit a PR
-
----
-
-## 🔐 **Security Reporting**
-
-If you find a security vulnerability:
-📩 Email us at **[contact@jrhof.org](mailto:contact@jrhof.org)**
-*Do not create public issues for security concerns.*
-
----
-
-## 📜 **License**
-
-All JR and Associates projects are **MIT licensed** unless otherwise noted.
-
----
-
-## 🫶 **Support Our Mission**
-
-We are a **501(c)(3) nonprofit**—your contributions help us:
-
-* Preserve Colorado baseball history
-* Maintain open-source tools for the community
-* Promote accessibility and education in tech
-
-**Ways to support:**
-💖 [**Become a GitHub Sponsor**](https://github.com/sponsors/JR-and-Associates-Inc)
-🌐 [**Donate via our website**](https://jrhof.org/donate)
-
-*Your sponsorships are tax-deductible under U.S. law.*
-
----
-
-### 👉 **Mission-driven. Privacy-focused. Community-powered.**
-
-Thank you for helping us honor the legacy of those who shaped Colorado baseball history.
-
----
+Learn more at [jrhof.org](https://jrhof.org), explore the [inductee archive](https://jrhof.org/inductees/), or [contact the Hall of Fame](https://jrhof.org/contact/).
