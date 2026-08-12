@@ -21,6 +21,8 @@ Our goals are straightforward:
 
 Much of the current website modernization has been contributed **pro bono**. Focused help from experienced volunteers and mission-aligned partners can make the work more sustainable and expand what the Hall of Fame can preserve.
 
+**Students, coding-bootcamp participants, and early-career contributors are warmly encouraged to participate.** A well-scoped web design, accessibility, content, or frontend task can become a meaningful portfolio, capstone, or supervised class project while delivering real value to the Colorado baseball community. Educators interested in a class collaboration can [contact the Hall of Fame](https://jrhof.org/contact/).
+
 We especially welcome thoughtful contributions in:
 
 | Area | The impact |
@@ -31,6 +33,7 @@ We especially welcome thoughtful contributions in:
 | Testing, security, and documentation | Reduce maintenance burden and make safe contributions easier to review. |
 | Digital archives and content quality | Improve historical data, sourcing, navigation, and long-term stewardship. |
 | Design and nonprofit storytelling | Help the mission resonate with inductees, families, volunteers, and supporters. |
+| Student and early-career projects | Build real-world experience through a scoped web design, accessibility, content, or frontend contribution. |
 
 **Start with the [contribution guide](https://github.com/JR-and-Associates-Inc/jrhof-webapp/blob/main/CONTRIBUTING.md)** and use the repository's [structured issue forms](https://github.com/JR-and-Associates-Inc/jrhof-webapp/issues/new/choose) before beginning substantial work. Small, well-scoped contributions with clear evidence and validation are easiest for the volunteer maintainers to review.
 
