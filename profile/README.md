@@ -1,36 +1,75 @@
-# JR and Associates, Inc.
+# Joe Rossi Umpires Hall of Fame
 
-JR and Associates, Inc. supports the [Joe Rossi Umpires Hall of Fame](https://jrhof.org), which honors people who have contributed to baseball officiating in Colorado and preserves their stories for future generations.
+**Preserving the people, stories, and traditions of Colorado high school baseball officiating.**
 
-## The Hall of Fame website
+[Visit the Hall of Fame](https://jrhof.org/) · [Meet the inductees](https://jrhof.org/inductees/) · [Help improve the website](https://github.com/JR-and-Associates-Inc/jrhof-webapp/blob/main/CONTRIBUTING.md) · [Support the mission](https://jrhof.org/donate/)
 
-[jrhof-webapp](https://github.com/JR-and-Associates-Inc/jrhof-webapp) is the public source repository for the Hall of Fame website. The active site is built with Astro and served as static assets on Cloudflare. Approved optimized media is delivered from Cloudflare R2. The retired Next.js application remains only as migration history inside that repository.
+The Joe Rossi Umpires Hall of Fame is a public-facing program of **JR and Associates, Inc., a Colorado 501(c)(3) nonprofit organization**. We honor people who have made lasting contributions to baseball officiating in Colorado and preserve their stories for future generations.
 
-The repository is public for transparency and collaboration, but it currently has no open-source license. Public visibility does not by itself grant permission to reuse the code, branding, photographs, or historical material.
+## A living digital archive
 
-The website uses Google Tag Manager as the single Google measurement loader for approved GA4 and Google Ads measurement. Cloudflare Web Analytics is managed separately, and Microsoft Clarity loads only when its approved public project ID is configured. Details and privacy disclosures are maintained in the website repository and at [jrhof.org/privacy-policy](https://jrhof.org/privacy-policy/).
+The Hall of Fame website is more than an event page. It is a growing public record of inductees, photographs, programs, and the communities that shaped Colorado high school baseball umpiring.
 
-## Ways to contribute
+Our goals are straightforward:
 
-- Suggest a sourced factual correction or offer historical programs, photographs, clippings, or biographical leads.
-- Report a reproducible website bug or accessibility issue.
-- Propose focused improvements to accessibility, performance, documentation, or security.
-- Help review historical material only when its source and permission status can be documented.
+- keep the historical record accurate, sourced, and respectful;
+- make the archive accessible and useful on any device;
+- protect personal information and rights-managed historical material; and
+- build technology that a small nonprofit can operate responsibly for years.
 
-Start with the contribution guidance and available issue forms in [jrhof-webapp](https://github.com/JR-and-Associates-Inc/jrhof-webapp). Do not post personal information, private documents, credentials, payment details, or unlicensed media.
+## Help modernize this public resource
 
-## Report security issues privately
+Much of the current website modernization has been contributed **pro bono**. Focused help from experienced volunteers and mission-aligned partners can make the work more sustainable and expand what the Hall of Fame can preserve.
 
-Do not disclose vulnerabilities in a public issue. Follow the repository's [security policy](https://github.com/JR-and-Associates-Inc/jrhof-webapp/security/policy); use GitHub's private advisory form when the repository presents it, or the private contact method named in that policy.
+We especially welcome thoughtful contributions in:
+
+| Area | The impact |
+| --- | --- |
+| Accessibility and inclusive UX | Help visitors of all abilities explore the archive and complete important tasks. |
+| Astro, TypeScript, and frontend engineering | Improve a fast, maintainable, static-first website. |
+| Cloudflare delivery and web performance | Keep the site reliable, secure, and economical for a small nonprofit. |
+| Testing, security, and documentation | Reduce maintenance burden and make safe contributions easier to review. |
+| Digital archives and content quality | Improve historical data, sourcing, navigation, and long-term stewardship. |
+| Design and nonprofit storytelling | Help the mission resonate with inductees, families, volunteers, and supporters. |
+
+**Start with the [contribution guide](https://github.com/JR-and-Associates-Inc/jrhof-webapp/blob/main/CONTRIBUTING.md)** and use the repository's [structured issue forms](https://github.com/JR-and-Associates-Inc/jrhof-webapp/issues/new/choose) before beginning substantial work. Small, well-scoped contributions with clear evidence and validation are easiest for the volunteer maintainers to review.
+
+## The website project
+
+[jrhof-webapp](https://github.com/JR-and-Associates-Inc/jrhof-webapp) is the public source repository for the active Hall of Fame website. It is built with Astro and TypeScript, delivered through Cloudflare, and validated for content, routes, and generated output before changes are accepted.
+
+Useful starting points:
+
+- [Project overview and local setup](https://github.com/JR-and-Associates-Inc/jrhof-webapp#readme)
+- [Contribution guide](https://github.com/JR-and-Associates-Inc/jrhof-webapp/blob/main/CONTRIBUTING.md)
+- [Open issues](https://github.com/JR-and-Associates-Inc/jrhof-webapp/issues)
+- [Open pull requests](https://github.com/JR-and-Associates-Inc/jrhof-webapp/pulls)
+- [Security policy](https://github.com/JR-and-Associates-Inc/jrhof-webapp/security/policy)
+
+The retired Next.js application remains in the repository only as migration history.
 
 ## Support the mission
 
-- [Donate](https://jrhof.org/donate/) to support the Hall of Fame's charitable mission.
-- [Ask about sponsorship](https://jrhof.org/contact/) for an event or program.
-- [Contribute historical material](https://jrhof.org/contact/) for review and preservation.
-- Help with the public website through the contribution paths above.
-- GitHub Sponsors is not currently configured for this organization. If it is introduced later, it will be described separately from event payments and donations made through jrhof.org.
+There are several meaningful ways to help:
 
-Charitable donations, sponsorship arrangements, event purchases, and GitHub sponsorships are different transactions. Eligibility for a tax deduction depends on the specific transaction and the donor's circumstances; no blanket tax-deductibility claim is made here. Event tickets and other payments may include benefits received in return.
+- [Make a one-time or monthly gift](https://jrhof.org/donate/) to support the Hall of Fame's charitable mission.
+- [Ask about sponsorship](https://jrhof.org/contact/) for an event, preservation initiative, or mission-aligned technology work.
+- [Share historical material](https://jrhof.org/contact/) such as programs, photographs, clippings, or biographical leads for review.
+- Contribute focused engineering, accessibility, design, documentation, or archival expertise through the website repository.
 
-Learn more at [jrhof.org](https://jrhof.org), explore the [inductee archive](https://jrhof.org/inductees/), or [contact the Hall of Fame](https://jrhof.org/contact/).
+GitHub Sponsors is not currently configured for this organization. Donations, sponsorship arrangements, event purchases, and any future GitHub sponsorships are distinct transactions; the Hall of Fame does not make a blanket tax-deductibility claim for every type of payment.
+
+## Responsible collaboration
+
+- Do not post personal information, private documents, credentials, payment details, or unlicensed media.
+- Report vulnerabilities privately through the repository's [security policy](https://github.com/JR-and-Associates-Inc/jrhof-webapp/security/policy), never in a public issue.
+- Historical and biographical changes should include reliable sources and documented permission where appropriate.
+- All participants must follow the project's [Code of Conduct](https://github.com/JR-and-Associates-Inc/jrhof-webapp/blob/main/CODE_OF_CONDUCT.md).
+
+## Reuse and rights
+
+The website repository is public for transparency and collaboration, but it currently has **no open-source license**. Public visibility does not grant permission to reuse the code, name, branding, photographs, or historical material. Please review the repository's contribution and copyright guidance before submitting or reusing material.
+
+---
+
+[Learn about the Hall of Fame](https://jrhof.org/about/) · [Explore the inductee archive](https://jrhof.org/inductees/) · [Contact us](https://jrhof.org/contact/)
