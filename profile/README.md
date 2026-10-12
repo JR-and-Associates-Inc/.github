@@ -68,7 +68,7 @@ The public source repository for the active Hall of Fame website. It is built wi
 ## Support and partnership
 
 - [Make a one-time or monthly gift](https://jrhof.org/donate/) to support the Hall of Fame's charitable mission.
-- [Ask about sponsorship or partnership](https://jrhof.org/contact/) for an event, preservation initiative, class project, or mission-aligned technology effort.
+- [Ask about sponsorship](https://jrhof.org/sponsor/) for an event or preservation initiative, or [get in touch about a partnership](https://jrhof.org/contact/), class project, or mission-aligned technology effort.
 - [Share historical material](https://jrhof.org/contact/) such as programs, photographs, clippings, or biographical leads for review.
 - Contribute focused engineering, accessibility, design, documentation, or archival expertise through the website repository.
 
